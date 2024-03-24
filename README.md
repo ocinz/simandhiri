@@ -3,7 +3,7 @@
   - Plugin Name: Simandhiri.
   - Plugin URI: .
   - Description: self-service book circulation plugin.
-  - Version: 1.0.0.
+  - Version: 0.0.1.
   - Author: Ocinz/Ahmad Hafid.
   - Author URI: [LinkedIn](https://www.linkedin.com/in/ahmad-hafid/)
 ### - User Guide:
