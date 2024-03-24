@@ -1,12 +1,13 @@
 # Simandhiri
 ### Information
   - Plugin Name: Simandhiri.
-  - Plugin URI: .
-  - Description: self-service book circulation plugin.
+  - Plugin URI: [Github](https://github.com/ocinz/simandhiri)
+  - Description: self-service book circulation plugin for SLiMS.
   - Version: 0.0.1.
   - Author: Ocinz/Ahmad Hafid.
   - Author URI: [LinkedIn](https://www.linkedin.com/in/ahmad-hafid/)
-### - User Guide:
+
+### User Guide:
 - Download and extract this repository.
 - Copy simandhiri folder to __YOUR_SLIMS_DIRECTORY_/plugins/
 - Copy this line of code to __YOUR_SLIMS_DIRECTORY_/api/v1/route.php, after
